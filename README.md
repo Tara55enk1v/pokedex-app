@@ -1,0 +1,1 @@
+To run this project you just need to clone repo to your local, open in VS Code or another environment and run the command 'npm install' in terminal for installing node packages then run 'npm start' to start the project.
